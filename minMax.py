@@ -1,4 +1,4 @@
-#function that sorts an array of numbers from smallest to largest
+#function that prints the maximum and minimum sums of an array of numbers
 def minMax(array):
     #sorts the array
     array.sort()
